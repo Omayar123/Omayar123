@@ -1,10 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Omayar Ahmed
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Omayer Ahmed
 ====================================================================================================================================
 
 Data Scientist | Data Analyst
 ---------------------------------------
 
-\- Welcome to my portfolio :D - Give me a follow! I am currently a third-year Computer Science student studying at University of Westminster. I draw, I animate and I am also a chess enthusiast :D I am experienced in using Python, SQL, Excel, Microsoft Access, and PowerBI!
+
 
 * 🌍  I'm based in United Kingdom, London
 * ✉️  You can contact me at [omayer2468@gmail.com](mailto:omayer2468@gmail.com)
